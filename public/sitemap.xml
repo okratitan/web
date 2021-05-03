@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://smhouston.us/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://smhouston.us/blog/</loc>
+    <lastmod>2019-08-26T11:57:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smhouston.us/resume/</loc>
+  </url>
+  
+  <url>
+    <loc>https://smhouston.us/blog/fynedesk/</loc>
+    <lastmod>2019-08-26T11:57:30-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smhouston.us/</loc>
+    <lastmod>2019-08-26T11:57:30-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://smhouston.us/blog/new-site/</loc>
+    <lastmod>2019-06-02T11:46:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smhouston.us/blog/ephoto-1_5-released/</loc>
+    <lastmod>2017-08-21T11:46:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://smhouston.us/projects/ephoto/</loc>
+  </url>
+  
+  <url>
+    <loc>https://smhouston.us/projects/fyfoto/</loc>
+  </url>
+  
+  <url>
+    <loc>https://smhouston.us/projects/fyne/</loc>
+  </url>
+  
+  <url>
+    <loc>https://smhouston.us/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
