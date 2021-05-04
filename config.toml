@@ -6,6 +6,7 @@ buildDrafts = false
 buildFuture = false
 buildExpired = false
 enableGitInfo = false
+paginate = 5
 
 [author]
 name = "Stephen Houston"
