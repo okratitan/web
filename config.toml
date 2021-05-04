@@ -5,6 +5,7 @@ canonifyURLs = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
+enableGitInfo = false
 
 [author]
 name = "Stephen Houston"
