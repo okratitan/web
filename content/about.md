@@ -9,4 +9,4 @@ side projects, sports, the outdoors, music, and food.  I also like to ramble and
 read those ramblings and see details about those hobbies!
 
 [github](https://github.com/okratitan) [twitter](https://twitter.com/stephenmhouston)
-[linkedin](https://www.linkedin.com/in/stephenmhouston/) [polywork](https://polywork.com/okra)
+[linkedin](https://www.linkedin.com/in/stephenmhouston/) [polywork](https://polywork.com/okra) [email](mailto:smhouston88@gmail.com)
