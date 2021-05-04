@@ -1,4 +1,4 @@
-baseURL = "https://smhouston.netlify.app/" # Your domain name. Must end with "/"
+baseURL = "https://okra.technology/" # Your domain name. Must end with "/"
 theme = "hello-friend-ng"
 languageCode = "en-us" # Default language for multilingual sites
 paginate = 5
