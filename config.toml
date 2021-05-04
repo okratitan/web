@@ -13,6 +13,10 @@ disableRSS = false
 disableSitemap = false
 disable404 = false
 disableHugoGeneratorInject = false
+archetypeDir = "archetypes"
+contentDir   = "content"
+layoutDir    = "layouts"
+publishDir   = "public"
 
 [author]
 name = "Stephen Houston"
