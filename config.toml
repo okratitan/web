@@ -7,7 +7,6 @@ buildFuture = false
 buildExpired = false
 canonifyURLs = true
 enableRobotsTXT = true
-enableGitInfo = false
 enableEmoji = true
 disableRSS = false
 disableSitemap = false
@@ -17,6 +16,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 layoutDir    = "layouts"
 publishDir   = "public"
+gitUrl = "https://github.com/okratitan/web/"
 
 [author]
 name = "Stephen Houston"
@@ -28,7 +28,6 @@ showReadingTime = false
 enableThemeToggle = true
 homeSubtitle = "Software Engineer"
 enableSharingButtons = true
-gitUrl = ""
 
 [params.logo]
 logoText = "howdy y'all"
