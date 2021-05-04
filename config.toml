@@ -16,6 +16,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 layoutDir    = "layouts"
 publishDir   = "public"
+enableGitInfo = true
 gitUrl = "https://github.com/okratitan/web/"
 
 [author]
