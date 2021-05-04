@@ -1,6 +1,10 @@
 baseURL = "https://smhouston.netlify.app/" # Your domain name. Must end with "/"
 theme = "hello-friend-ng"
 languageCode = "en-us" # Default language for multilingual sites
+canonifyURLs = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
 
 [author]
 name = "Stephen Houston"
