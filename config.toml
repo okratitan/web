@@ -1,99 +1,122 @@
 baseURL = "https://okra.technology/" # Your domain name. Must end with "/"
-theme = "hello-friend-ng"
+title = "Howdy Y'all"
 languageCode = "en-us" # Default language for multilingual sites
-paginate = 5
-buildDrafts = false
-buildFuture = false
-buildExpired = false
-canonifyURLs = true
-enableRobotsTXT = true
-enableEmoji = true
-disableRSS = false
-disableSitemap = false
-disable404 = false
-disableHugoGeneratorInject = false
+theme = "hello-friend-ng"
+
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
+paginate = 15
+rssLimit = 15
+copyright = ""
+
 archetypeDir = "archetypes"
 contentDir   = "content"
 layoutDir    = "layouts"
 publishDir   = "public"
-enableGitInfo = true
-gitUrl = "https://github.com/okratitan/web/"
+
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+canonifyURLs = true
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
 
 [author]
-name = "Stephen Houston"
+  name = "Stephen Houston"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+  series   = "series"
 
 [params]
-contentTypeName = "blog"
-defaultTheme = "dark"
-showReadingTime = false
-enableThemeToggle = true
-homeSubtitle = "Software Engineer"
-enableSharingButtons = true
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
 
-[params.logo]
-logoText = "howdy y'all"
-logoHomeLink = "/"
-logoCursorColor = "#669966"
+  description = "Ramblings and Hobbies of a Software Engineer"
+  keywords = ""
+  images = [""]
 
-[params.footer]
-trademark = true
-rss = true
-copyright = false
-author = true
-topText = []
-bottomText = [
-  "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
-  "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
-]
+  homeSubtitle = "Software Engineer"
 
-[languages.en]
-title = "Stephen Houston"
-subtitle = "Software Engineer"
-keywords = ""
-copyright = ""
-menuMore = "Show more"
-writtenBy = "Written by"
-readMore = "Read more"
-readOtherPosts = "Read other posts"
-newerPosts = "Newer posts"
-olderPosts = "Older posts"
-minuteReadingTime = "min read"
-dateFormatSingle = "2006-01-02"
-dateFormatList = "2006-01-02"
+  gitUrl = ""
 
-[[menu.main]]
-identifier = "about"
-name = "About"
-url = "about/"
+  enableThemeToggle = true
+  enableSharingButtons = true
 
-[[menu.main]]
-identifier = "blog"
-name = "Blog"
-url = "posts/"
+  customCSS = []
+  customJS  = []
 
-[[menu.main]]
-identifier = "projects"
-name = "Projects"
-url = "projects/"
+  justifyContent = false
 
-[[menu.main]]
-identifier = "resume"
-name = "Resume"
-url = "resume/"
+  [params.footer]
+    trademark = true
+    rss = true
+    copyright = false
+    author = true
+    topText = []
+    bottomText = [
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
+      "Made with &#10084; by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+    ]
 
-# Social icons
-[[params.social]]
-name = "github"
-url = "https://github.com/okratitan"
+  [params.logo]
+    logoText = "howdy y'all"
+    logoHomeLink = "/"
+    logoCursorColor = "#669966"
 
-[[params.social]]
-name = "twitter"
-url = "https://twitter.com/stephenmhouston"
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/okratitan"
 
-[[params.social]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/stephenmhouston"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/stephenmhouston"
 
-[[params.social]]
-name = "email"
-url = "mailto:smhouston88@gmail.com"
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/stephenmhouston"
+
+  [[params.social]]
+    name = "email"
+    url = "mailto:smhouston88@gmail.com"
+
+[languages]
+  [languages.en]
+    title = "Stephen Houston"
+    subtitle = "Software Engineer"
+    copyright = ""
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "about/"
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "posts/"
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "projects/"
+
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "resume/"
