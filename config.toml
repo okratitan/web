@@ -1,4 +1,4 @@
-baseURL = "https://okra.technology/" # Your domain name. Must end with "/"
+baseURL = "https://friedokra.dev/" # Your domain name. Must end with "/"
 title = "Howdy Y'all"
 languageCode = "en-us" # Default language for multilingual sites
 theme = "hello-friend-ng"
