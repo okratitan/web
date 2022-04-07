@@ -1,7 +1,7 @@
 ---
 title: "About"
 ---
-{{< image src="/img/me_boat.png" alt="Picture Of Me" position="center" style="border-radius: 8px;" >}}
+{{< image src="/img/me_pro.png" alt="Picture Of Me" position="center" style="border-radius: 8px;" >}}
 
 Howdy y'all!  My name is Stephen and I am a software engineer.  I currently work for [Bread Financial](https://breadfinancial.com)
 as a Go engineer developing backend microservices. I have a lot of fun hobbies that include building and crafting,
