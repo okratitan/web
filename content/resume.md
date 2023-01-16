@@ -4,7 +4,7 @@ title: "Resume"
 **Stephen Houston**  
 **Business Systems Analyst**
 
-My goal is to further my career in a field that I have come to love. Technology is constantly growing and presents a challenge to remain current and understand the evolving needs of those who use it. As a student with a degree in business, I understand the bridge between technology and business and how crucial technology is to the modern work environment.
+My goal is to further my career in a field that I have come to love. Technology is constantly growing and presents a challenge to remain current and understand the evolving needs of those who use it. As an engineer with a degree in business, I understand the bridge between technology and business and how crucial technology is to the modern work environment.
 
 **Education**
 
@@ -17,12 +17,14 @@ My goal is to further my career in a field that I have come to love. Technology 
 * Experienced with databases such as MySQL, PostgreSQL, and SQL Server
 * Experienced in developing cross-platform including Windows, Mac, and Linux
 * Experienced with many tools such as Git, GitHub, Jira, Confluence, Docker, Kubernetes, and more
+* Engineering Management
 
 **Business Analysis Skills/Experience**
 
 * Software Development Lifecycle
 * Systems Analysis and Design
 * Project Management Body of Knowledge
+* Engineering Management
 
 **Data Analysis Skills**
 
